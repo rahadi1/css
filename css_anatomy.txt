@@ -1,0 +1,3 @@
+ANATOMY OF CSS
+
+selector {property:value;}
