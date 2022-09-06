@@ -22,3 +22,8 @@ comment */
 p {
   color: red;
 }
+
+#
+
+HTML and CSS Comments
+From the HTML tutorial, you learned that you can add comments to your HTML source by using the <!--...--> syntax.
