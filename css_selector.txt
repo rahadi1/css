@@ -13,11 +13,19 @@ Attribute selectors (select elements based on an attribute or attribute value)
 This page will explain the most basic CSS selectors.
 
 The CSS element Selector
-The element selector selects HTML elements based on the element name.
+The element selector selects HTML elements based on the element nama.
 
 EXAMPLE:
-p {
+h1 {
   text-align: center;
   color: red;
 }
 
+#
+The CSS Universal Selector
+The universal selector (*) selects all HTML elements on the page.
+EXAMPLE:
+* {
+  text-align: center;
+  color: blue;
+}
