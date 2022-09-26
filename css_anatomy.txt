@@ -10,7 +10,11 @@ Each declaration includes a CSS property name and a value, separated by a colon.
 
 Multiple CSS declarations are separated with semicolons, and declaration blocks are surrounded by curly braces
 
-abcde fghij klmno 
+abcde black mamba fghij bambino klmno 
+
+mercedes benz wuling
+
+timor bimantara
 
 EXAMPLE:
 
