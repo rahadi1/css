@@ -8,8 +8,6 @@ The declaration block contains one or more declarations separated by semicolons.
 
 Each declaration includes a CSS property name and a value, separated by a colon.
 
-Multiple CSS declarations are separated with semicolons, and declaration blocks are surrounded by curly braces
-
 abcde black mamba fghij bambino klmno 
 
 mercedes benz wuling
@@ -25,5 +23,4 @@ p {
 
 Example Explained
 p is a selector in CSS (it points to the HTML element you want to style: <p>).
-color is a property, and red is the property value
 text-align is a property, and center is the property value
